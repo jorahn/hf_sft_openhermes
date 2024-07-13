@@ -1,0 +1,1 @@
+python ../utils/export_hf.py --input ../ckpt/model.bin --output ../out
